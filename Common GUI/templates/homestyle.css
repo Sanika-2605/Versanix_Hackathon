@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items:normal;
     min-height: 100vh;
-    background: url('D:\\HackMol 5.O\\Common GUI\\templates\\Background.jpg');
+    background: url('../css/assets/Background.jpg');
     background-size: cover;
     background-position: center;
 }
